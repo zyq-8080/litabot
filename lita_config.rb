@@ -27,7 +27,7 @@ else
 end
 config.adapters.slack.token=ENV.fetch('SLACK_TOKEN','')
 
-
+ 
   ## Example: Set options for the chosen adapter.
   # config.adapter.username = "myname"
   # config.adapter.password = "secret"
