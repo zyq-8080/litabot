@@ -1,8 +1,8 @@
 Gem::Specification.new do |spec|
   spec.name          = "lita-doubler"
   spec.version       = "0.1.0"
-  spec.authors       = ["mutougmy"]
-  spec.email         = ["245951546@qq.com"]
+  spec.authors       = ["zyq-8080"]
+  spec.email         = ["1103273386@qq.com"]
   spec.description   = "double skill"
   spec.summary       = "a double skill"
   spec.homepage      = "https://github.com/dpritchett/lita-doubler"
